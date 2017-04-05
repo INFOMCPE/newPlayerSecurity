@@ -1,0 +1,7 @@
+name: НовичокSecurity
+main: infomcpe\НовичокSecurity
+version: 1.1
+api: 2.0.0
+load: POSTWORLD
+author: opkiler22789
+website: infomcpe.ru
